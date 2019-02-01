@@ -3,8 +3,7 @@
 1. First run ```Bundle install```
 2. run ```rails db:seed```
 3. run ```rails console```
-
-4.by exemple writte ```tp User.all```
+4. by exemple writte ```tp User.all```
 
 # RESUME
 
