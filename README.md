@@ -4,7 +4,7 @@
 2. run ```rails db:seed```
 3. run ```rails console```
 
-4.by exemple writte ```tp Doctor.all```
+4.by exemple writte ```tp User.all```
 
 # RESUME
 
